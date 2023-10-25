@@ -134,7 +134,7 @@
 - [x] 2
 - [ ] Normal
 
-#### Q16. What program flow function evaluates a condition and either returns a truepart or a falsepart?
+#### Q16. What program flow function evaluates a condition and returns either a truepart or a falsepart?
 
 - [ ] `Switch()`
 - [ ] `IsError()`
@@ -235,7 +235,7 @@
 - [x] Use a RunMacro or OnError macro action.
 - [ ] Expand the macro in the **Navigation Pane** and double-click the submacro name.
 
-#### Q28. Which combo box property defines what values appear when the user clicks the drop-down arrow?
+#### Q28. Which combo box property defines what values appears when the user clicks the drop-down arrow?
 
 - [ ] Control Source
 - [x] Row Source
